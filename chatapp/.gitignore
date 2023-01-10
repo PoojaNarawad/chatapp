@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/Practice.jsx
+/firebase.jsx
 /.pnp
 .pnp.js
 
@@ -10,10 +12,10 @@
 # testing
 /coverage
 
+
 # production
 /build
-/Practice.jsx
-/firebase.jsx
+
 
 # misc
 .DS_Store
