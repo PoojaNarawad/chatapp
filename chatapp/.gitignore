@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-src/Components/Practice.jsx
-src/firebase.js
 /.pnp
 .pnp.js
 
