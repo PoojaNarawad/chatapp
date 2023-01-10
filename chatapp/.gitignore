@@ -2,8 +2,8 @@
 
 # dependencies
 /node_modules
-/Practice.jsx
-/firebase.jsx
+src/Components/Practice.jsx
+src/firebase.js
 /.pnp
 .pnp.js
 
@@ -27,3 +27,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
