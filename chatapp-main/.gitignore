@@ -4,8 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-./practice.jsx
-./firebase.js
+
 
 
 # testing
@@ -13,6 +12,8 @@
 
 # production
 /build
+/Practice.jsx
+/firebase.jsx
 
 # misc
 .DS_Store
